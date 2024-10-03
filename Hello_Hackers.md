@@ -1,6 +1,6 @@
 # cryptonite_taskphase1_anna
 ## Module 1: Hello Hackers
-### Challenge 1
+### Challenge 1 : Intro to Commands
 * Connected SSH to pwn college's dojo module server
 * Used the hello command once connected
 * ![image](https://github.com/user-attachments/assets/66ad6828-25b0-4df0-a15f-2628b6018bd4)
