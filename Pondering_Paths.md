@@ -22,8 +22,16 @@ Same process and outcome as before
 Same process and outcome as before
 
 - ### Implicit relative paths, from /
+![image](https://github.com/user-attachments/assets/9424d524-7e37-4c6c-9539-a7b4311291ed)
+Requires changing current directory to root by using `cd` command and then running program
+
 - ### Explicit relative paths, from /
+![image](https://github.com/user-attachments/assets/c6c77d7d-0c9e-42c1-b001-0d39fe1173d8)
+Using `.` refers right to the same directory so it can be used with the relative path of the program. When the current directory is `/`,using `.` gives the path the same as the absolute path.
+
 - ### Implicit relative path
+![image](https://github.com/user-attachments/assets/1ef96253-027b-4bc4-bc1e-2c8fd93de367)
+Requires us to go into `/challenge` directory first and then using the relative path of the run program to run it.
 
 - ### Home Sweet Home
 ![image](https://github.com/user-attachments/assets/c0de8bc6-a36d-4d35-bbd5-91c00a5acba6)
