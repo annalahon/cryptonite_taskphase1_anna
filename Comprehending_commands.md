@@ -50,4 +50,5 @@ The `mkdir` command can be used to make directories within a directory. Then we 
 Using `find` command in the '/' directory to look for a file with the name 'flag'.
 
 - ### Linking files
-
+![image](https://github.com/user-attachments/assets/7117ad10-59d8-4de9-8a4c-352e6da1effc)
+Here we had to make `/home/hacker/not-the-flag` a symlink for `/flag` so when we accessed it through `/challenge/catflag` it gives us the flag file instead.
