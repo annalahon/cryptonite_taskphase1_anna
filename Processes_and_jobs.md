@@ -1,5 +1,5 @@
-![image](https://github.com/user-attachments/assets/c9ef639c-514e-4980-8404-b31b65165cf0)![image](https://github.com/user-attachments/assets/49d9432c-1076-4b2b-9f0b-631c86c465d9)# cryptonite_taskphase1_anna
-## Module 7: Processes and Jobs
+# cryptonite_taskphase1_anna
+## Module 8: Processes and Jobs
 
 - ### Listing Processes
 ![image](https://github.com/user-attachments/assets/ab20cbc0-4995-4308-b143-d81de520ae0a)
@@ -36,3 +36,4 @@ New method of directly backgrounding processes without first suspending them by 
 
 - ### Process Exit Codes
 ![image](https://github.com/user-attachments/assets/5481f3c8-bc53-4aba-8e84-2be36d3d6cac)
+Echoing `&?` gives the **exit value** of a process after it terminates. We used this exit value to get the flag.
