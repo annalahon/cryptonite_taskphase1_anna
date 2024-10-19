@@ -13,3 +13,5 @@ Setting PATH as empty so it wont find the rm variable and cant delete the flag
 Created **win** file with `cat /flag` in it. The path exporting part was a bit confusing but it essentially is to make sure that win comes under the required **PATH**. Using that, it invokes `win` giving us the flag.
 
 - ### Hijacking Commands
+![image](https://github.com/user-attachments/assets/b9822ecf-65ef-460c-8666-581608a1bc88)
+
